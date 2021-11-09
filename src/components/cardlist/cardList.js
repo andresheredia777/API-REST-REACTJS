@@ -10,6 +10,7 @@ export class CardList extends Component {
      constructor(props) {
           super(props);
      }
+
      render() {
           return (
                <div className="card-list">
