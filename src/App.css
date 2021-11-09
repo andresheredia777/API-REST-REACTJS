@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+ 
+ 
+ 
+
+h1{
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  text-align: center;
+  color: #0ccac4;
+}
